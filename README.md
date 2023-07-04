@@ -4,13 +4,6 @@
 
 <br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizrodrigox&show_icons=true&count_private=true&hide_border=true&title_color=32CD32&icon_color=32CD32&text_color=FFFFFF&bg_color=0d1117" alt="Luiz Rodrigo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrodrigox&layout=compact&hide_border=true&title_color=32CD32&text_color=32CD32&bg_color=0d1117" />
-</-readme-activity-graph.cyclic.app/graph?username=luizrodrigox&bg_color=000000&color=ffffff&line=32cd32&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
 ### Studying in this moment
 <div style="display: inline_block"><br>
 <img align="center" alt="icone-c" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
