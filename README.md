@@ -1,10 +1,14 @@
 #Hello, I am Rodrigo! 👋
+
 <div>
+ <p>
   *💻 Developer
   *🎮 Gaming and Technology Enthusiast
   *🤝 Open to collaborations and new challenges
+ </p>
 </div>
 
+   
 <br>
 
 ### 🛠️ Technologies Experienced
