@@ -5,8 +5,6 @@
 *🤝 Open to collaborations and new challenges
 
 <br>
-https://github-profile-trophy.vercel.app/?username=luizrodrigox&theme=radical&margin-w=5&margin-h=5
-<br>
 
 ### 🛠️ Technologies Experienced
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = "40" height = "40"/>
