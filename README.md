@@ -1,17 +1,18 @@
-#Hello, I am Rodrigo! 👋
+<h1>Hello, I am Rodrigo! 👋</h1>
 
+<hr>
 <div>
- <p>
-  *💻 Developer
-  *🎮 Gaming and Technology Enthusiast
-  *🤝 Open to collaborations and new challenges
- </p>
+ <ul>
+  <li>💻 Developer</li>
+  <li>🎮 Gaming and Technology Enthusiast</li>
+  <li>🤝 Open to collaborations and new challenges</li>
+ </ul>
 </div>
-
+<hr>
    
 <br>
 
-### 🛠️ Technologies Experienced
+### 🛠️ Technologies
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = "40" height = "40"/>
