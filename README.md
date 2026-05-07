@@ -9,7 +9,7 @@
 - Java, Python, Flutter, Javascript, HTML e CSS
 - PostgreSQL, MariaDB e MongoDB
 - Git e GitHub
-- Figma, Draw.io, Lucidchart
+- Figma, Draw.io e Lucidchart
 
 ---
 
